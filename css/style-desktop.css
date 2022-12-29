@@ -107,3 +107,21 @@
         border-bottom-color: #FF79DA;
     }
 }
+
+/* Pour Ordinateur de Bureau */
+
+@media only screen and (min-width: 1200px) {
+    .header {
+      padding: 1rem 8rem;
+    }
+    .footer {
+        padding: 1.875rem 8rem;
+    }
+    .menu__content, section {
+        padding: 4rem 8rem;
+    }
+    .localisation-description {
+        margin-top: 0.5rem;
+        font-size: 1.2rem;
+        color: #959595;
+    }
