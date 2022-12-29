@@ -133,5 +133,11 @@
     .prix-repas {
         padding: 2rem;
     }
+    .menu-restaurants .liste-repas {
+        display: flex;
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: space-between;
+    }
 
     
