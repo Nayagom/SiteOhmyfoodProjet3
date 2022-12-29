@@ -176,3 +176,20 @@ button {
     position: absolute;
     left: -0.8125rem;
 }
+
+/* CARTE RESTAURANTS */
+
+.restaurants {
+    background-color: #F6F6F6;
+}
+.restaurant {
+    position: relative;
+    border-radius: 1rem;
+    margin-bottom: 1.25rem;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: normal;
+    justify-content: normal;
+    flex-wrap: nowrap;
+}
