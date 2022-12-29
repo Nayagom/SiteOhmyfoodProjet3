@@ -3,3 +3,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 /* Pour Ordinateur Portable */
+
+@media only screen and (min-width: 992px) {
+    .header {
+      padding: 1rem 4rem;
+    }
+    .footer {
+        padding: 1.5625rem 4rem;
+    }
+    .menu__content, section {
+        padding: 4rem;
+    }
+    .btn-coeur {
+        font-size: 1.5rem;
+    }
