@@ -107,4 +107,14 @@
         opacity: 1;
     }
 
+    /* REPAS */
+
+    .repas {
+        width: 48rem;
+        flex-basis: 49%;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        animation: delay 750ms both;
+    }
+
     
