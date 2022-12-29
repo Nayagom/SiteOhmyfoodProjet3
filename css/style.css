@@ -93,3 +93,11 @@ button {
 .btn:hover:after {
     opacity: 1;
 }
+
+/* LOCALISATION */
+
+.localisation {
+    padding: 0 0 3.125rem;
+    background-color: #F6F6F6;
+    text-align: center;
+}
