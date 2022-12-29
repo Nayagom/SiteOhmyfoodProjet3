@@ -29,3 +29,12 @@
         -webkit-background-clip: text;
         opacity: 1;
     }
+    .fonctionnements-liste {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        grid-template-columns: repeat(3, 1fr);
+        display: block;
+    }
+    
