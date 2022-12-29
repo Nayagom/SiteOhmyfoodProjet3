@@ -211,3 +211,11 @@ button {
     border-radius: 1rem 1rem 0rem 0rem;
     border: 0 solid transparent;
 }
+.restaurant-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    margin: 0.3rem 0.7rem 0rem 0.7rem;
+}
