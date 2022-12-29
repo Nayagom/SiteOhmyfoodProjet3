@@ -17,3 +17,13 @@
     .btn-coeur {
         font-size: 1.5rem;
     }
+    .restaurant-description i {
+        position: absolute;
+        right: 1rem;
+        top: 1.5rem;
+        font-size: 1.5rem;
+    }
+    .restaurant-description .fas {
+        color: transparent;
+        transition: ease-out all 400ms;
+    }
