@@ -161,3 +161,18 @@ button {
     font-size: 1.25rem;
     color: #7E7E7E;
 }
+.titre-fonctionnement {
+    font-weight: 900;
+}
+.numero-fonctionnement {
+    background: #9356DC;
+    color: #FFF;
+    width: 1.625rem;
+    height: 1.625rem;
+    line-height: 1.625rem;
+    border-radius: 50%;
+    font-size: 0.8125rem;
+    text-align: center;
+    position: absolute;
+    left: -0.8125rem;
+}
