@@ -258,3 +258,8 @@ button {
     margin-bottom: 0.3125rem;
     margin: 0rem 0.7rem 0rem 0.7rem;
 }
+.lieu-restaurant {
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 0rem 0.7rem 0rem 0.7rem;
+}
