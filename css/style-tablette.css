@@ -95,5 +95,9 @@
         font-size: 1.5rem;
         padding: 1rem;
     }
+    .info-menu .fas {
+        color: transparent;
+        transition: ease-out all 400ms;
+    }
 
     
