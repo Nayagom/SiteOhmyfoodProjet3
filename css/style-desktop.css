@@ -207,6 +207,17 @@
         margin: 0%;
         gap: 0.5rem;
     }
+    .menu-repas {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .titre-souligner {
+        text-transform: uppercase;
+        position: absolute;
+        padding-bottom: 0.5rem;
+        font-weight: 400;
+        margin: 0;
+    }
     .info-repas {
         margin-left: 1rem;
         margin-right: 1rem;
