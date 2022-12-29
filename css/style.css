@@ -250,3 +250,11 @@ button {
     -webkit-background-clip: text;
     opacity: 1;
 }
+
+/* DESCRIPTION */
+.titre-restaurant {
+    font-size: 1.125rem;
+    font-weight: 900;
+    margin-bottom: 0.3125rem;
+    margin: 0rem 0.7rem 0rem 0.7rem;
+}
