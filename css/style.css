@@ -61,3 +61,16 @@ button {
     justify-content: center;
     flex-wrap: nowrap;
 }
+
+/* BOUTON EXPLORER */
+
+.btn {
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    border-radius: 2rem;
+    color: #FFF;
+    position: relative;
+    z-index: 1;
+    background: linear-gradient(180deg, #FF79DA 0%, #9356DC 100%);
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.2);
+}
