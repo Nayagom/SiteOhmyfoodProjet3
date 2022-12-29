@@ -263,3 +263,13 @@ button {
     text-transform: capitalize;
     margin: 0rem 0.7rem 0rem 0.7rem;
 }
+.restaurant-nouveau {
+    padding: 0.5rem 0.75rem;
+    background-color: #99E2D0;
+    color: #008766;
+    font-size: 0.875rem;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
