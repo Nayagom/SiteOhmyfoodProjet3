@@ -225,3 +225,36 @@
     .prix-repas {
         padding: 2rem;
     }
+
+    /* Animation Menu */
+    .repas--1 {
+        animation: delay 1s;
+    }
+    .repas--2 {
+        animation: delay 2s;
+    }
+    .repas--3 {
+        animation: delay 3s;
+    }
+    .repas--4 {
+        animation: delay 4s;
+    }
+    .repas--5 {
+        animation: delay 5s;
+    }
+    .repas--6 {
+        animation: delay 6s;
+    }
+    .repas--7 {
+        animation: delay 7s;
+    }
+    .repas--8 {
+        animation: delay 8s;
+    }
+    .repas--9 {
+        animation: delay 9s;
+    }
+    .repas--10 {
+        animation: delay 10s;
+    }
+}
