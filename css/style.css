@@ -101,3 +101,13 @@ button {
     background-color: #F6F6F6;
     text-align: center;
 }
+.localisation-lieu {
+    background-color: #EAEAEA;
+    font-style: normal;
+    font-weight: 500;
+    padding: 1rem;
+    margin-bottom: 2.1875em;
+}
+.localisation-lieu i {
+    margin-right: 0.9375em;
+}
