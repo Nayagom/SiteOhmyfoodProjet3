@@ -280,3 +280,10 @@ button {
     background: #353535;
     color: #FFF;
 }
+.titre-footer {
+    font-family: "Shrikhand", cursive;
+    font-weight: normal;
+    font-size: 1.5rem;
+    text-transform: lowercase;
+    margin-bottom: 1.25rem;
+}
