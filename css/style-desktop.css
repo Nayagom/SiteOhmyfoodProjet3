@@ -34,3 +34,15 @@
         -webkit-background-clip: text;
         opacity: 1;
     }
+
+    /* FONCTIONNEMENT */
+    .fonctionnement {
+        flex-basis: 30%;
+    }
+    .fonctionnements-liste {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        grid-template-columns: repeat(3, 1fr);
+    }
