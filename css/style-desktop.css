@@ -60,3 +60,15 @@
         gap: 2rem;
         margin: 0rem 1rem 0rem 1rem;
     }
+
+    /* REPAS */
+    .repas {
+        flex-basis: 32%;
+    }
+    .menu-repas .liste-repas {
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        grid-template-columns: repeat(3, 1fr);
+    }
