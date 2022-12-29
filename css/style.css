@@ -228,3 +228,14 @@ button {
     background: white;
     box-shadow: 2px 3px 20px 0px #2b2b2b3f;
 }
+
+/* BOUTON COEUR */
+.btn-coeur {
+    font-size: 1.5rem;
+}
+.restaurant-description i {
+    position: absolute;
+    right: 1rem;
+    top: 1.5rem;
+    font-size: 1.5rem;
+}
