@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* PRINCIPAL */
+
 html {
     box-sizing: border-box;
 }
@@ -27,7 +30,9 @@ a {
     cursor: pointer;
     transition: all 0.3s ease;
 }
+
 /* Header Menu */
+
 .header-menu {
     display: flex;
     width: auto;
@@ -67,6 +72,8 @@ a {
     margin-right: auto;
 }
 
+/* MENUS */
+
 .menu {
     padding: 0;
 }
@@ -103,6 +110,7 @@ a {
     margin-bottom: 0;
     margin-left: 1rem;
 }
+
 /* Coeur */
 
 .btn-coeur {
@@ -187,6 +195,9 @@ a {
     animation-duration: 1000ms;
     animation-fill-mode: backwards;
 }
+
+/* INFORMATIONS REPAS */
+
 .info-repas {
     padding: 1rem;
     white-space: nowrap;
@@ -258,6 +269,7 @@ a {
 
 
 /* @Keyframes */
+
 @keyframes menus {
    from {
     transform: translateY(-100px);
@@ -287,6 +299,7 @@ a {
 
 
 /* Animation Menu */
+
 .repas--1 {
     animation-delay: 0.1s;
 }
@@ -320,6 +333,7 @@ a {
 
 
 /* Bouton Commander */
+
 .commander {
     padding: 0.5rem;
     text-align: center;
@@ -356,6 +370,7 @@ a {
 }
 
 /* Footer */
+
 .footer {
     background: #353535;
     color: #FFF;
