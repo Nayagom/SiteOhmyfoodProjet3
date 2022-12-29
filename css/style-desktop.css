@@ -197,3 +197,20 @@
         flex-direction: column;
         width: 100%;
     }
+    .liste-repas {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        grid-template-columns: repeat(3, 1fr);
+        display: grid;
+        background-color: #f6f6f6;
+        max-width: 100%;
+        margin: 0%;
+        gap: 0.5rem;
+    }
+    .info-repas {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .prix-repas {
+        padding: 2rem;
+    }
