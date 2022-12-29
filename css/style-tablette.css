@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+@media only screen and (min-width: 768px) {
+    .fonctionnement {
+      flex-basis: 47%;
+    }
+    .restaurant {
+        flex-basis: 48%;
+    }
+    .btn-coeur {
+        font-size: 1.5rem;
+    }
+    .restaurant-description i {
+        position: absolute;
+        right: 1rem;
+        top: 1.5rem;
+        font-size: 1.5rem;
+    }
