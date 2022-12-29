@@ -139,3 +139,21 @@
         grid-template-columns: repeat(3, 1fr);
         display: grid;
     }
+
+    /* REPAS */
+    
+    .repas {
+        flex-basis: 31%;
+    }
+    .repas-liste {
+        padding: 2rem;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        grid-template-columns: repeat(2, 1fr);
+        display: grid;
+        gap: 2rem;
+        margin: 0rem 1rem 0rem 1rem;
+    }
