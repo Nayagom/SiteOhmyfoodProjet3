@@ -127,12 +127,12 @@ a {
     padding: 1rem;
     transition-duration: 0.5s;
 }
-.btn-coeur .far {
-    color: black;
-    transition: ease-out all 400ms;
-}
 .btn-coeur .fas {
     color: transparent;
+    transition: ease-out all 400ms;
+}
+.btn-coeur .far {
+    color: black;
     transition: ease-out all 400ms;
 }
 .btn-coeur i:hover {
@@ -178,7 +178,8 @@ a {
     flex-wrap: wrap;
 }
 .repas {
-    width: 21rem;
+    margin-left: 10px;
+    width: 94%;
     margin-right: 1rem;
     background: #FFF;
     border-radius: 1rem;
