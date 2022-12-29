@@ -116,5 +116,15 @@
         margin-right: 1rem;
         animation: delay 750ms both;
     }
+    .liste-repas {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        background-color: #f6f6f6;
+        max-width: 100%;
+        margin: 0%;
+        gap: 0.5rem;
+    }
 
     
