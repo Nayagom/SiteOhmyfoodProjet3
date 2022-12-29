@@ -125,3 +125,17 @@
         font-size: 1.2rem;
         color: #959595;
     }
+
+    /* FONCTIONNEMENTS */
+
+    .fonctionnement {
+        margin-left: 1.5rem;
+    }
+    .fonctionnements-liste {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        grid-template-columns: repeat(3, 1fr);
+        display: grid;
+    }
