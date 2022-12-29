@@ -287,3 +287,16 @@ button {
     text-transform: lowercase;
     margin-bottom: 1.25rem;
 }
+.footer li {
+    margin-bottom: 0.625rem;
+}
+.footer li a:hover {
+    color: #cccccc;
+}
+.footer li i {
+    margin-right: 0.3125rem;
+    font-size: 0.875rem;
+}
+.footer li address {
+    font-style: normal;
+}
