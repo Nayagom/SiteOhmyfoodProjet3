@@ -73,7 +73,7 @@
     }
 
     /* RESTAURANTS */
-    
+
     .restaurants-liste {
         display: flex;
         flex-direction: row;
@@ -84,6 +84,16 @@
         display: grid;
         gap: 2rem;
         margin: 0rem 1rem 0rem 1rem;
+    }
+
+    /* Coeur */
+
+    .info-menu i {
+        position: absolute;
+        right: 2rem;
+        top: 1.5rem;
+        font-size: 1.5rem;
+        padding: 1rem;
     }
 
     
