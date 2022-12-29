@@ -87,3 +87,9 @@ button {
     z-index: -1;
     opacity: 1 ease;
 }
+.btn:hover {
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+}
+.btn:hover:after {
+    opacity: 1;
+}
