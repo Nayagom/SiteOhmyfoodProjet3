@@ -193,3 +193,21 @@ button {
     justify-content: normal;
     flex-wrap: nowrap;
 }
+
+/* IMAGES RESTAURANTS */
+.carte {
+    background-color: #fff;
+    border-radius: 1rem;
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+.restaurant-img {
+    width: 100%;
+    object-fit: cover;
+    height: 12rem;
+    box-shadow: none;
+    border-radius: 1rem 1rem 0rem 0rem;
+    border: 0 solid transparent;
+}
