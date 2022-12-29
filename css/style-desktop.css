@@ -174,3 +174,26 @@
         display: flex;
         grid-template-columns: repeat(3, 1fr);
     }
+    .repas {
+        display: flex;
+        flex-direction: row-reverse;
+        width: auto;
+        margin: auto;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        margin: 0rem 1rem 1rem 1rem;
+        background-color: white;
+        box-shadow: 2px 2px 11px 0px #0000004f;
+        cursor: pointer;
+        border-radius: 1rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .liste-repas {
+        display: grid;
+        flex-direction: column;
+        width: 100%;
+    }
