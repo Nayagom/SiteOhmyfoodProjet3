@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+  
+.footer {
+    padding: 1.25rem;
+}
+  
+.menu__content, section {
+    padding: 3.125rem 1.25rem;
+}
+
+ul {
+    list-style: none;
+}
+  
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+  
+img {
+    max-width: 100%;
+}
